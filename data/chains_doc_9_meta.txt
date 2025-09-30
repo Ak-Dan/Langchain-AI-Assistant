@@ -1,0 +1,1 @@
+{'source': 'https://python.langchain.com/docs/versions/migrating_chains/multi_prompt_chain/', 'loc': 'https://python.langchain.com/docs/versions/migrating_chains/multi_prompt_chain/', 'changefreq': 'weekly', 'priority': '0.5'}
