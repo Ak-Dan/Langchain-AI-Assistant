@@ -4,10 +4,11 @@ from dotenv import load_dotenv
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain.chains import LLMChain
-from vectordb import VectorDB
+from vectordb_faiss import VectorDB
 from langchain_openai import ChatOpenAI
 from langchain_groq import ChatGroq
 from langchain_google_genai import ChatGoogleGenerativeAI
+
 
 # Load environment variables
 load_dotenv()
