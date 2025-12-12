@@ -1,7 +1,7 @@
 
 # 📚 LangChain RAG Assistant
 
-A **Retrieval-Augmented Generation (RAG)** assistant built with **LangChain**, **FAISS**, and **LLMs** (Groq, OpenAI, or Google Gemini).
+A **Retrieval-Augmented Generation (RAG)** assistant built with **LangChain**, **FAISS**, and **LLM** (Groq).
 It uses downloaded portions of the LangChain documentation as its knowledge base and answers technical questions with context-aware responses.
 
 ---
